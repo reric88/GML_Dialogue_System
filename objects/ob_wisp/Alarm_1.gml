@@ -1,0 +1,1 @@
+mytextbox = 0;
